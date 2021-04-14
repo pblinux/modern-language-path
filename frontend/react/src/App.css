@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.App {
+  font-family: 'Lato', sans-serif;
+  height: 100vh;
+  text-align: center;
+}
+
+.mlp-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.mlp-url {
+  color: #f2e205;
+}
+
+.mlp-icon {
+  color: #f2e205;
+  font-size: 80px;
+  margin: 4px 0px 40px 0px;
+}
+
+h1 {
+  font-size: 56px;
+  margin-bottom: 8px;
+}
+
+p {
+  font-size: 20px;
+  margin: 0px;
+}
