@@ -10,8 +10,8 @@ You will find three samples for mobile:
 - iOS (Swift UI)
 
 <p float="left">
-  <img src="/images/flutter.png" height="50" />
-  <img src="/images/ios.png" width="50" /> 
+  <img src="/images/flutter.png" height="250" />
+  <img src="/images/ios.png" height="250" /> 
 </p>
 
 ## Backend
