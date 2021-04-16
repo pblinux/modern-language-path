@@ -10,8 +10,8 @@ You will find three samples for mobile:
 - iOS (Swift UI)
 
 <p float="left">
-  <img src="/images/flutter.png" width="100" />
-  <img src="/images/ios.png" width="100" /> 
+  <img src="/images/flutter.png" height="50" />
+  <img src="/images/ios.png" width="50" /> 
 </p>
 
 ## Backend
@@ -24,4 +24,4 @@ Simple example for frontend with:
 - Vue.js
 - React.js
 
-![Simple frontned sample]()
+![Simple frontned sample](https://raw.githubusercontent.com/pblinux/modern-language-path/main/images/frontend.png)
